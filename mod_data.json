@@ -1,0 +1,12 @@
+[
+  {"Cuisine": "Indian", "Dish": "Butter Chicken", "Description": "Creamy tomato curry with tender chunks of marinated chicken."},
+  {"Cuisine": "Italian", "Dish": "Spaghetti Carbonara", "Description": "Pasta with a sauce made from eggs, cheese, pancetta, and black pepper."},
+  {"Cuisine": "Japanese", "Dish": "Ramen", "Description": "Noodle soup with various toppings like sliced pork, nori, and scallions."},
+  {"Cuisine": "Mexican", "Dish": "Tacos al Pastor", "Description": "Tacos filled with spit-grilled pork, pineapple, onions, and cilantro."},
+  {"Cuisine": "Thai", "Dish": "Tom Yum Goong", "Description": "Hot and sour soup with shrimp, mushrooms, tomatoes, lemongrass, galangal, and kaffir lime leaves."},
+  {"Cuisine": "French", "Dish": "Bouillabaisse", "Description": "Provençal fish stew originating from the port city of Marseille."},
+  {"Cuisine": "Spanish", "Dish": "Paella", "Description": "Rice dish with rabbit, chicken, land snails, green beans, and seasoning."},
+  {"Cuisine": "Chinese", "Dish": "Peking Duck", "Description": "Dish from Beijing that has been prepared since the imperial era, known for its thin, crispy skin."},
+  {"Cuisine": "Greek", "Dish": "Moussaka", "Description": "Eggplant or potato-based dish, often including ground meat, layered with béchamel sauce."},
+  {"Cuisine": "Lebanese", "Dish": "Tabbouleh", "Description": "Salad made of tomatoes, finely chopped parsley, mint, bulgur, and onion, and seasoned with olive oil, lemon juice, salt and pepper."}
+]
