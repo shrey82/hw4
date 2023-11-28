@@ -1,12 +1,12 @@
 [
-  {"Cuisine": "Indian", "Dish": "Butter Chicken", "Description": "Creamy tomato curry with tender chunks of marinated chicken."},
-  {"Cuisine": "Italian", "Dish": "Spaghetti Carbonara", "Description": "Pasta with a sauce made from eggs, cheese, pancetta, and black pepper."},
-  {"Cuisine": "Japanese", "Dish": "Ramen", "Description": "Noodle soup with various toppings like sliced pork, nori, and scallions."},
-  {"Cuisine": "Mexican", "Dish": "Tacos al Pastor", "Description": "Tacos filled with spit-grilled pork, pineapple, onions, and cilantro."},
-  {"Cuisine": "Thai", "Dish": "Tom Yum Goong", "Description": "Hot and sour soup with shrimp, mushrooms, tomatoes, lemongrass, galangal, and kaffir lime leaves."},
-  {"Cuisine": "French", "Dish": "Bouillabaisse", "Description": "Provençal fish stew originating from the port city of Marseille."},
-  {"Cuisine": "Spanish", "Dish": "Paella", "Description": "Rice dish with rabbit, chicken, land snails, green beans, and seasoning."},
-  {"Cuisine": "Chinese", "Dish": "Peking Duck", "Description": "Dish from Beijing that has been prepared since the imperial era, known for its thin, crispy skin."},
-  {"Cuisine": "Greek", "Dish": "Moussaka", "Description": "Eggplant or potato-based dish, often including ground meat, layered with béchamel sauce."},
-  {"Cuisine": "Lebanese", "Dish": "Tabbouleh", "Description": "Salad made of tomatoes, finely chopped parsley, mint, bulgur, and onion, and seasoned with olive oil, lemon juice, salt and pepper."}
+  {"Cuisine": "Indian", "Dish": "Butter Chicken", "Description": "A rich curry made with yogurt-marinated chicken, cooked in a buttery tomato sauce."},
+  {"Cuisine": "Indian", "Dish": "Palak Paneer", "Description": "Paneer cubes in a thick paste made from pureed spinach, seasoned with garlic and garam masala."},
+  {"Cuisine": "Chinese", "Dish": "Kung Pao Chicken", "Description": "A spicy stir-fry dish with chicken, peanuts, vegetables, and chili peppers."},
+  {"Cuisine": "Chinese", "Dish": "Mapo Tofu", "Description": "Soft tofu set in a spicy sauce, typically a thin, oily, and bright red suspension, with minced meat."},
+  {"Cuisine": "Indian", "Dish": "Chana Masala", "Description": "Spicy chickpea curry flavored with a tangy blend of tomatoes, onions, and spices."},
+  {"Cuisine": "Indian", "Dish": "Rogan Josh", "Description": "Braised lamb chunks cooked with a gravy based on browned onions, yogurt, garlic, ginger and aromatic spices."},
+  {"Cuisine": "Chinese", "Dish": "Peking Duck", "Description": "A renowned duck dish from Beijing, known for its crispy skin and succulent meat."},
+  {"Cuisine": "Chinese", "Dish": "Char Siu", "Description": "Seasoned barbecued pork, characterized by its shiny, sweet glaze."},
+  {"Cuisine": "Indian", "Dish": "Biryani", "Description": "Mixed rice dish with aromatic spices and marinated chicken, mutton, or vegetables."},
+  {"Cuisine": "Chinese", "Dish": "Fried Rice", "Description": "Cooked rice stir-fried with eggs, vegetables, seafood or meat, and seasoned with soy sauce."}
 ]
